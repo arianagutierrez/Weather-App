@@ -1,6 +1,6 @@
 # Weather App
 
-This is a [Weather App](https://weather-app-arianagg.vercel.app/) REACTJS project. 
+This is a [Weather App]() REACTJS project. 
 
 Build Technologies: <br/>
 ✅  REACT <br/>
